@@ -1,5 +1,3 @@
-brncorrea / README.md
-
 # Bruno Corrêa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00b37e?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-corr%C3%AAa-257623203/) [![Email](https://img.shields.io/badge/Email-00b37e?style=flat-square&logo=gmail&logoColor=white)](mailto:brncorrea2@gmail.com)
