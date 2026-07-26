@@ -1,8 +1,9 @@
 # Bruno Corrêa
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bruno--corrêa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-corr%C3%AAa-257623203/)
-[![Email](https://img.shields.io/badge/Email-brncorrea2%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brncorrea2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/@brncorrea-00b37e?style=flat-square)](https://www.linkedin.com/in/bruno-corr%C3%AAa-257623203/)
+[![Name](https://img.shields.io/badge/Bruno%20Corr%C3%AAa-00b37e?style=flat-square)](#)
+[![Email](https://img.shields.io/badge/brncorrea2@gmail.com-00b37e?style=flat-square)](mailto:brncorrea2@gmail.com)
 
-Sistemas de Informação @ Unisinos | Administração @ UFSM.
+Experienced in business process optimization, operational indicators, and financial analysis. Transitioning my background in Business Administration into Software Engineering.
 
-Desenvolvimento de software back-end com foco em Node.js, TypeScript e PostgreSQL.
+Focused on back-end development, building RESTful APIs and software solutions with Java, Node.js, TypeScript, and PostgreSQL.
